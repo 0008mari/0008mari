@@ -1,6 +1,7 @@
-# Hello
+# Hello Me
 
-잔디심기 🌠🌠🌠
+김정연
 
-얼마 전에 [블로그](https://0008mari.github.io/)를 시작했습니다. 아직 정리 중!
+server-side 공부 중
 
+[블로그](https://velog.io/@0008mari)
