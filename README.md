@@ -10,3 +10,5 @@
 
 * [블로그](https://velog.io/@0008mari)
 
+지금은 주로 GitLab Private 저장소에서 작업하고 있어서 잔디가 휑하네요 ㅎㅎ
+
