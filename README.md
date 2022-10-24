@@ -8,7 +8,7 @@
 
 * [블로그](https://velog.io/@0008mari)
 
-지금은 주로 Private 저장소에서 작업하고 있어요.
+지금은 주로 Gitlab Private 저장소에서 작업하고 있어요.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0008mari&show_icons=true&theme=flag-india)
 
